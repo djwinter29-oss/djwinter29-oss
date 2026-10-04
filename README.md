@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Ji Dong
 
-<!--
-**djwinter29-oss/djwinter29-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Software Architect with 20+ years of experience in medical devices, industrial automation, robotics, and IoT.
 
-Here are some ideas to get you started:
+My GitHub focuses mainly on personal projects, open-source tooling, embedded systems, RP2040/Pico experimentation, and AI-assisted development tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Areas
+
+- Safety-critical software
+- Medical devices (IEC 62304)
+- Embedded systems
+- Azure IoT
+- DevOps & Compliance Automation
+
+## Current Interests
+
+- Raspberry Pi Pico / RP2040 / RP2350
+- Embedded debugging tools
+- Protocol analysis
+- AI-assisted software development
+- Electronics and hardware prototyping
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/dong-ji/
+- ORCID: https://orcid.org/0009-0002-5558-5491
+
+## Featured Projects
+
+### PicoTrace
+Low-cost protocol tracing tool built around Raspberry Pi Pico.
+
+### MergeMate
+AI-powered development assistant for Telegram.
+
+### PicoSPIBridge
+SPI bridge and diagnostics platform.
+
+### PicoUart
+UART inspection and debugging utilities.
