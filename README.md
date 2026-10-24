@@ -12,7 +12,8 @@ Professional:
 - DevOps & compliance automation
 
 Personal projects:
+- PicoUart
+- PicoForge
+- MergeMate
 - PicoTrace
 - PicoSPIBridge
-- PicoUart
-- MergeMate
